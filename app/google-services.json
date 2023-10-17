@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199608909034",
+    "project_id": "objectdetectionmlkit",
+    "storage_bucket": "objectdetectionmlkit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199608909034:android:515a6bc21d474591a86b93",
+        "android_client_info": {
+          "package_name": "com.chivumarius.objectdetectionmlkit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-O4XDk1xlsGRHI2DNxcvUh0POtQqSLKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
